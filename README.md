@@ -1,4 +1,4 @@
-#MSP430 Projects
+# MSP430 Projects
 This repo is a collection on projects created to utilize the MSP430 microcontroller.
 
 ### Basic LED Blink
